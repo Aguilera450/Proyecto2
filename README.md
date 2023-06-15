@@ -1,5 +1,15 @@
 # Proyecto 02.
 ## Modelado y programación.
+
+## Team:
+* Adrian Aguilera Moreno     - @Aguiler450
+* Diego Angel Rosas Franco   - @shikitimiau
+* Marco Antonio Rivera Silva - @DONMARCORS
+
+## Masters:
+* Rosa Victoria Villa Padilla - victoria_vp@ciencias.unam.mx
+* Arturo Lemus Pablo          - alemuspablo@ciencias.unam.mx
+
 ### Objetivo
 <div class=text-justify>
 Usando los patrones de diseño vistos en clase, diseñen una problemática e implementen su solución. **La solución propuesta debe evitar caer en problemas de rigidez, fragilidad, inmovilidad, y viscosidad**.
