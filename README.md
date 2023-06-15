@@ -1,5 +1,4 @@
-# Proyecto 02.
-## Modelado y programación.
+# Modelado y programación: Proyecto 02.
 
 ## Team:
 * Adrian Aguilera Moreno     - @Aguiler450
